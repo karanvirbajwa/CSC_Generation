@@ -43,3 +43,39 @@ DevTools listening on ws://localhost:53596/devtools/browser/0b2b7f3a-daa3-4b59-8
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638765397331	geckodriver	INFO	Listening on 127.0.0.1:63493
+1638765399428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63494" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofileTJl5Ai"
+1638765408067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofileTJl5Ai\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63494/devtools/browser/bb91bddf-407a-4823-a629-8b425023825a
+1638765419583	Marionette	INFO	Listening on port 63500
+1638765419834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638765446052	Marionette	INFO	Stopped listening on port 63500
+[Parent 5924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638765593331	geckodriver	INFO	Listening on 127.0.0.1:63634
+1638765595500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63635" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofilenXBjFX"
+1638765599597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofilenXBjFX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63635/devtools/browser/4a271dfc-02aa-4db9-a60b-acc1c3c9dd11
+1638765604910	Marionette	INFO	Listening on port 63640
+1638765605042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638765618145	Marionette	INFO	Stopped listening on port 63640
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638765673498	geckodriver	INFO	Listening on 127.0.0.1:63719
+1638765675511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63720" "-no-remote" "-profile" "C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofileYhayxx"
+1638765679137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\acer\\AppData\\Local\\Temp\\rust_mozprofileYhayxx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63720/devtools/browser/5ea3e6c5-cdff-414e-b27d-31da3edf6cc3
+1638765685835	Marionette	INFO	Listening on port 63725
+1638765686352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638765698956	Marionette	INFO	Stopped listening on port 63725
+[Parent 5968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

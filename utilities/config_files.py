@@ -14,6 +14,10 @@ def get_configData(section, key):
     return data[key]
 
 
+def get_githubURL():
+    return get_configData("BROWSER", "URL")
+
+
 def get_searchText():
     return get_configData("SEARCH", "SEARCHDATA")
 

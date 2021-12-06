@@ -4,6 +4,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import IEDriverManager, EdgeChromiumDriverManager
 
+from utilities import config_files
+
 global driver
 
 
@@ -29,7 +31,7 @@ def setup(request):
         print("Browser mentioned is not present")
 
     driver.maximize_window()
-    driver.get("https://github.com")
+    driver.get(config_files.get_githubURL())
     request.cls.driver = driver
     yield
     driver.close()

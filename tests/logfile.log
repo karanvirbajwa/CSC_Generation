@@ -1,9 +1,18 @@
-2021-12-05 23:02:03,170 :INFO : test_end2end :Test Case Started
-2021-12-05 23:02:05,776 :INFO : test_end2end :Looking for Advance search and fill form
-2021-12-05 23:02:09,725 :INFO : test_end2end :Verify only result of given repo is displayed
+2021-12-05 23:40:09,615 :INFO : test_end2end :Test Case Started
+2021-12-05 23:40:11,814 :INFO : test_end2end :Looking for Advance search and fill form
+2021-12-05 23:40:15,382 :INFO : test_end2end :Verify only result of given repo is displayed
 
-2021-12-05 23:02:14,048 :INFO : test_end2end :Following is the output of first 300 characters of the [README.md]
+2021-12-05 23:40:18,138 :INFO : test_end2end :Following is the output of first 300 characters of the [README.md]
 
-2021-12-05 23:02:14,049 :INFO : test_end2end :b'# \xf0\x9f\xa4\x94 Decider ![GZip size badge](https://img.badgesize.io/uyouthe/decider/master/decider.js?compression=gzip&label=As%20tiny%20as) \nApply CSS to React components conditionally, like a boss.\n\n```JS\nclassName={ decide(styles, {\n    header: true,\n    mobile: props.isMobile,\n    narrow: parseInt(props.wid'
-2021-12-05 23:02:14,049 :INFO : test_end2end :Test Case Completed
+2021-12-05 23:40:18,138 :INFO : test_end2end :b'# \xf0\x9f\xa4\x94 Decider ![GZip size badge](https://img.badgesize.io/uyouthe/decider/master/decider.js?compression=gzip&label=As%20tiny%20as) \nApply CSS to React components conditionally, like a boss.\n\n```JS\nclassName={ decide(styles, {\n    header: true,\n    mobile: props.isMobile,\n    narrow: parseInt(props.wid'
+2021-12-05 23:40:18,138 :INFO : test_end2end :Test Case Completed
+
+2021-12-05 23:41:31,877 :INFO : test_end2end :Test Case Started
+2021-12-05 23:41:33,765 :INFO : test_end2end :Looking for Advance search and fill form
+2021-12-05 23:41:36,613 :INFO : test_end2end :Verify only result of given repo is displayed
+
+2021-12-05 23:41:38,949 :INFO : test_end2end :Following is the output of first 300 characters of the [README.md]
+
+2021-12-05 23:41:38,949 :INFO : test_end2end :b'# \xf0\x9f\xa4\x94 Decider ![GZip size badge](https://img.badgesize.io/uyouthe/decider/master/decider.js?compression=gzip&label=As%20tiny%20as) \nApply CSS to React components conditionally, like a boss.\n\n```JS\nclassName={ decide(styles, {\n    header: true,\n    mobile: props.isMobile,\n    narrow: parseInt(props.wid'
+2021-12-05 23:41:38,950 :INFO : test_end2end :Test Case Completed
 
